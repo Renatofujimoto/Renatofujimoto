@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=renatofujimoto" alt="renatofujimoto" /></a> </p>
 
-- 🔭 I’m currently working on **ACE startup**
+- 🔭 I’m currently working on **Freelancer**
 
 - 🌱 I’m currently learning **React, JavaScript**
 
