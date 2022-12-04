@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **developer**
 
-- 👨‍💻 All of my projects are available at (https://portfolio-react-dmh64cxte-renatofujimoto.vercel.app/)]([https://renatofujimoto.github.io/portfolio/](https://portfolio-react-dmh64cxte-renatofujimoto.vercel.app/))
+- 👨‍💻 All of my projects are available at (https://portfolio-react-dmh64cxte-renatofujimoto.vercel.app/)](https://portfolio-react-dmh64cxte-renatofujimoto.vercel.app/))
 
 - 💬 Ask me about **React, JavaScript, HTML e CSS**
 
